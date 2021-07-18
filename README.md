@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![ruslanchek's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruslanchek)](https://github.com/ruslanchek/github-readme-stats)
+
 <!--
 **ruslanchek/ruslanchek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
