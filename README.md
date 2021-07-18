@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![ruslanchek's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruslanchek&count_private=true&show_icons=true&theme=synthwave)](https://github.com/ruslanchek/github-readme-stats)
+[![ruslanchek's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruslanchek&count_private=true&show_icons=true)](https://github.com/ruslanchek/github-readme-stats)
 
 <!--
 **ruslanchek/ruslanchek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
