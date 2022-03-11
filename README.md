@@ -1,4 +1,4 @@
-### Hi there 👋
+### Stands with Ukraine 🇺🇦
 
 [![ruslanchek's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruslanchek&count_private=true&show_icons=true)](https://github.com/ruslanchek/github-readme-stats)
 
