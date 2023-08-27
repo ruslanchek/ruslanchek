@@ -1,1 +1,1 @@
-### Stands with Ukraine 🇺🇦
+### Stand with Ukraine 🇺🇦
